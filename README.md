@@ -141,7 +141,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="arjungehlot552@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
